@@ -246,14 +246,14 @@ In addition, these plugins are not limited to news aggregation, but can also ext
 
 <!-- PLUGIN LIST -->
 
-| Recent Submits                                                                                                                     | Description                                                                                                                               |
-| ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| [Tongyi wanxiang Image Generator](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **YoungTx** on **2024-08-09**</sup> | This plugin uses Alibaba's Tongyi Wanxiang model to generate images based on text prompts.<br/>`image` `tongyi` `wanxiang`                |
-| [Shopping tools](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **shoppingtools** on **2024-07-19**</sup>            | Search for products on eBay & AliExpress, find eBay events & coupons. Get prompt examples.<br/>`shopping` `e-bay` `ali-express` `coupons` |
-| [Savvy Trader AI](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **savvytrader** on **2024-06-27**</sup>             | Realtime stock, crypto and other investment data.<br/>`stock` `analyze`                                                                   |
-| [Search1API](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **fatwang2** on **2024-05-06**</sup>                     | Search aggregation service, specifically designed for LLMs<br/>`web` `search`                                                             |
+| Recent Submits                                                                                                 | Description                                                                                                          |
+| -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| [Google CSE](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **vsnthdev** on **2024-12-02**</sup> | Searches Google through their official CSE API.<br/>`web` `search`                                                   |
+| [Google CSE](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **vsnthdev** on **2024-12-02**</sup> | Searches Google through their official CSE API.<br/>`web` `search`                                                   |
+| [Speak](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **speak** on **2024-12-02**</sup>         | Learn how to say anything in another language with Speak, your AI-powered language tutor.<br/>`education` `language` |
+| [Speak](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **speak** on **2024-12-02**</sup>         | Learn how to say anything in another language with Speak, your AI-powered language tutor.<br/>`education` `language` |
 
-> 📊 Total plugins: [<kbd>**49**</kbd>](https://github.com/lobehub/lobe-chat-plugins)
+> 📊 Total plugins: [<kbd>**98**</kbd>](https://github.com/lobehub/lobe-chat-plugins)
 
  <!-- PLUGIN LIST -->
 
@@ -285,14 +285,14 @@ Our marketplace is not just a showcase platform but also a collaborative space. 
 
 <!-- AGENT LIST -->
 
-| Recent Submits                                                                                                                                                                                     | Description                                                                                                                                                                                                                                       |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Master E's Tech Executive Assistant (EA)](https://chat-preview.lobehub.com/market?agent=alex)<br/><sup>By **[ApexAppdevelopment](https://github.com/ApexAppdevelopment)** on **2024-11-20**</sup> | Highly intelligent and loyal Executive Assistant (EA) specializing in software engineering support and strategic solutions for Master E.<br/>`executive-assistant` `software-engineering` `project-management` `technical-support` `optimization` |
-| [Human Author Simulator](https://chat-preview.lobehub.com/market?agent=human-writer-simulator)<br/><sup>By **[yufei96](https://github.com/yufei96)** on **2024-11-20**</sup>                       | Eliminate the characteristics of AI-generated content<br/>`ai-interaction` `writing` `optimization` `consultation`                                                                                                                                |
-| [Wisdom Guide](https://chat-preview.lobehub.com/market?agent=life-wisdom-guides)<br/><sup>By **[changjiong](https://github.com/changjiong)** on **2024-11-20**</sup>                               | Skilled in Guidance<br/>`life-coaching` `philosophical-reflection` `consultation` `heuristic-dialogue`                                                                                                                                            |
-| [Prompt Keywords](https://chat-preview.lobehub.com/market?agent=prompt-ts)<br/><sup>By **[qw1295353129](https://github.com/qw1295353129)** on **2024-11-20**</sup>                                 | Prompt Keywords<br/>`prompt-keywords`                                                                                                                                                                                                             |
+| Recent Submits                                                                                                                                                                        | Description                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [System Instruction Expert](https://chat-preview.lobehub.com/market?agent=instructer)<br/><sup>By **[yuyun2000](https://github.com/yuyun2000)** on **2024-12-04**</sup>               | Skilled in refining and generating efficient system instructions<br/>`system-instructions` `writing` `detail-optimization` `user-needs`                                  |
+| [Japanese Memory Helper](https://chat-preview.lobehub.com/market?agent=japan-language-helper)<br/><sup>By **[sharkbear212](https://github.com/sharkbear212)** on **2024-12-04**</sup> | Specializes in Japanese Hiragana, Katakana, vocabulary, and memory techniques for explanations and phrases<br/>`explanation` `memory-techniques` `japanese-teaching`     |
+| [Poetry Card Designer](https://chat-preview.lobehub.com/market?agent=poetry-card-designer)<br/><sup>By **[lianxin255](https://github.com/lianxin255)** on **2024-12-03**</sup>        | Skilled in designing poetry cards to enhance artistic sense and appeal<br/>`poetry-card-design` `card` `creativity` `artistic-expression`                                |
+| [Daily Doctor](https://chat-preview.lobehub.com/market?agent=yunchat-docter)<br/><sup>By **[yuyun2000](https://github.com/yuyun2000)** on **2024-11-30**</sup>                        | Specializes in surgical diagnosis and personalized health management<br/>`general-medicine` `surgery` `health-consultation` `personalized-treatment` `medical-education` |
 
-> 📊 Total agents: [<kbd>**439**</kbd> ](https://github.com/lobehub/lobe-chat-agents)
+> 📊 Total agents: [<kbd>**453**</kbd> ](https://github.com/lobehub/lobe-chat-agents)
 
  <!-- AGENT LIST -->
 

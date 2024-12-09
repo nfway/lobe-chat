@@ -241,10 +241,10 @@ LobeChat 的插件生态系统是其核心功能的重要扩展，它极大地�
 
 | 最近新增                                                                                                               | 插件描述                                                                                                           |
 | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| [谷歌自定义搜索引擎](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **vsnthdev** on **2024-12-02**</sup> | 通过他们的官方自定义搜索引擎 API 搜索谷歌。<br/>`网络` `搜索`                                                      |
+| [Speak](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **speak** on **2024-12-02**</sup>                 | 使用 Speak，您的 AI 语言导师，学习如何用另一种语言说任何事情。<br/>`教育` `语言`                                   |
 | [通义万象图像生成器](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **YoungTx** on **2024-08-09**</sup>  | 此插件使用阿里巴巴的通义万象模型根据文本提示生成图像。<br/>`图像` `通义` `万象`                                    |
 | [购物工具](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **shoppingtools** on **2024-07-19**</sup>      | 在 eBay 和 AliExpress 上搜索产品，查找 eBay 活动和优惠券。获取快速示例。<br/>`购物` `e-bay` `ali-express` `优惠券` |
-| [Savvy Trader AI](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **savvytrader** on **2024-06-27**</sup> | 实时股票、加密货币和其他投资数据。<br/>`股票` `分析`                                                               |
-| [Search1API](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **fatwang2** on **2024-05-06**</sup>         | 搜索聚合服务，专为 LLMs 设计<br/>`web` `search`                                                                    |
 
 > 📊 Total plugins: [<kbd>**49**</kbd>](https://github.com/lobehub/lobe-chat-plugins)
 
@@ -274,14 +274,14 @@ LobeChat 的插件生态系统是其核心功能的重要扩展，它极大地�
 
 <!-- AGENT LIST -->
 
-| 最近新增                                                                                                                                                                                | 助手说明                                                                                                                                  |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| [Master E 的技术执行助理（EA）](https://chat-preview.lobehub.com/market?agent=alex)<br/><sup>By **[ApexAppdevelopment](https://github.com/ApexAppdevelopment)** on **2024-11-20**</sup> | 高度智能且忠诚的执行助理（EA），专注于为 Master E 提供软件工程支持和战略解决方案。<br/>`执行助理` `软件工程` `项目管理` `技术支持` `优化` |
-| [人类作者模拟器](https://chat-preview.lobehub.com/market?agent=human-writer-simulator)<br/><sup>By **[yufei96](https://github.com/yufei96)** on **2024-11-20**</sup>                    | 消除 AI 生成内容的特征<br/>`ai交互` `写作` `优化` `咨询`                                                                                  |
-| [智慧引导者](https://chat-preview.lobehub.com/market?agent=life-wisdom-guides)<br/><sup>By **[changjiong](https://github.com/changjiong)** on **2024-11-20**</sup>                      | 擅长引导<br/>`人生指导` `哲学思考` `咨询` `启发式对话`                                                                                    |
-| [Prompt 提示词](https://chat-preview.lobehub.com/market?agent=prompt-ts)<br/><sup>By **[qw1295353129](https://github.com/qw1295353129)** on **2024-11-20**</sup>                        | Prompt 提示词<br/>`prompt提示词`                                                                                                          |
+| 最近新增                                                                                                                                                                      | 助手说明                                                                                  |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| [系统指令专家](https://chat-preview.lobehub.com/market?agent=instructer)<br/><sup>By **[yuyun2000](https://github.com/yuyun2000)** on **2024-12-04**</sup>                    | 擅长精炼与生成高效系统指令<br/>`系统指令` `写作` `细节优化` `用户需求`                    |
+| [日语帮助记忆师](https://chat-preview.lobehub.com/market?agent=japan-language-helper)<br/><sup>By **[sharkbear212](https://github.com/sharkbear212)** on **2024-12-04**</sup> | 擅长日语五十音，平假名，片假名，单词和短语解释与记忆技巧<br/>`解释` `记忆技巧` `日语教学` |
+| [诗词卡片设计师](https://chat-preview.lobehub.com/market?agent=poetry-card-designer)<br/><sup>By **[lianxin255](https://github.com/lianxin255)** on **2024-12-03**</sup>      | 擅长设计诗词卡片，提升艺术感与吸引力<br/>`诗词卡片设计` `卡片` `创意` `艺术表现`          |
+| [日常医生](https://chat-preview.lobehub.com/market?agent=yunchat-docter)<br/><sup>By **[yuyun2000](https://github.com/yuyun2000)** on **2024-11-30**</sup>                    | 擅长外科诊疗与个性化健康管理<br/>`全科医学` `外科` `健康咨询` `个性化治疗` `医学教育`     |
 
-> 📊 Total agents: [<kbd>**439**</kbd> ](https://github.com/lobehub/lobe-chat-agents)
+> 📊 Total agents: [<kbd>**453**</kbd> ](https://github.com/lobehub/lobe-chat-agents)
 
  <!-- AGENT LIST -->
 
